@@ -13,7 +13,14 @@ h1, h2, h3{
 ul {
 	list-style: square;
 }
-
+mark {
+	background-color: #8ffffe;
+}
 #profilbild {
 	border-radius: 50%;
+}
+
+#logo {
+	margin: auto;
+	display:block;
 }
